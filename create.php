@@ -1,4 +1,4 @@
-<? Tony writes in PHP, the worst language.?>
+<? Tony writes in PHP, the worst language.  Fuck your face!?>
 <td class = "feedContent">
   <h2>Create a post</h2>
 
